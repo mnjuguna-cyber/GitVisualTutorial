@@ -4,3 +4,4 @@
 4. Polish
 Tooth Paste
 Adaboost
+7. XGBoost
